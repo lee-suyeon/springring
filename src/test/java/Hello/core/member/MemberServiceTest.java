@@ -1,6 +1,6 @@
 package Hello.core.member;
 
-import Hello.core.order.AppConfig;
+import Hello.core.AppConfig;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
